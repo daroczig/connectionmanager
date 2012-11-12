@@ -10,7 +10,7 @@ What it looks like?
 
 Some screenshot
 
-![CM extension](http://i.imgur.com/XHu3a.png)
+![CM extension](http://i.imgur.com/W3PjE.png)
 
 ![CM Preferences](http://i.imgur.com/kC64i.png)
 
@@ -46,7 +46,7 @@ You can also install from [Gnome Shell Extension site](https://extensions.gnome.
 Current Version
 ========================
 
-Release 0.7.4 [Changes](https://github.com/sciancio/connectionmanager/wiki/Changes)
+Release 0.8 [Changes](https://github.com/sciancio/connectionmanager/wiki/Changes)
 
 Other Info
 ========================
